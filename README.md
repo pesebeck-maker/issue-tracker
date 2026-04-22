@@ -1,2 +1,13 @@
-# issue-tracker
-Software Engineering April 2026
+# Issue Tracker App
+
+
+``mermaid
+erDiagram
+
+issue(
+  TEXT issue_id 
+  TEXT name
+  DATETIME deadline
+  BOOL is_done
+  TEXT description
+  )
