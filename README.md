@@ -5,7 +5,7 @@
 erDiagram
 
 issue {
-  TEXT issue_id PK
+  TEXT issue_id PRIMARY KEY
   TEXT name
   DATETIME deadline
   BOOL is_done
