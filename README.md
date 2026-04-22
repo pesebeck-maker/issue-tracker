@@ -1,9 +1,8 @@
 # Issue Tracker App
 
 
-``mermaid
+```mermaid
 erDiagram
-
 issue(
   TEXT issue_id 
   TEXT name
