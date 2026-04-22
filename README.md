@@ -3,10 +3,12 @@
 
 ```mermaid
 erDiagram
-issue(
+
+issue (
   TEXT issue_id 
   TEXT name
   DATETIME deadline
   BOOL is_done
   TEXT description
   )
+```
